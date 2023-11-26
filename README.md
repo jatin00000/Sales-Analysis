@@ -35,6 +35,10 @@ The problem faced by AtliQ Hardware, a company supplying computer hardware and p
   - Dashboard(s) uncovering sales order insights with latest data available
   - Sales team able to take better decisions and prove 10% cost savings of total spend
   - Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it value added activity.
+![image](https://github.com/jatin00000/Sales-Analysis/assets/94428262/3ed5adfc-5163-431f-9187-e00c0c88eae1)
+<br/>
+![image](https://github.com/jatin00000/Sales-Analysis/assets/94428262/0915c751-e2a3-45a2-93da-169f29f73d3d)
+
 ### ETL performed
 - Remove markets with no zone
 - In transactions table, remove entries with transaction amount of less than 1.
@@ -43,6 +47,8 @@ The problem faced by AtliQ Hardware, a company supplying computer hardware and p
 - **Data.sql** is the original mysql data-base.
 - **Sales Analysis.pbix** is the dashboard created using Microsoft Power BI.
 ### Dashboard
+![image](https://github.com/jatin00000/Sales-Analysis/assets/94428262/91833bfb-7ce1-41ea-b0e0-69c4a2773abe)
+
 
 ### Data Analysis using Mysql
 These are MySQL queries used to discover the dataset. <br/>
