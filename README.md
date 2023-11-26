@@ -36,7 +36,6 @@ The problem faced by AtliQ Hardware, a company supplying computer hardware and p
   - Sales team able to take better decisions and prove 10% cost savings of total spend
   - Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it value added activity.
 ![image](https://github.com/jatin00000/Sales-Analysis/assets/94428262/3ed5adfc-5163-431f-9187-e00c0c88eae1)
-<br/>
 ![image](https://github.com/jatin00000/Sales-Analysis/assets/94428262/0915c751-e2a3-45a2-93da-169f29f73d3d)
 
 ### ETL performed
